@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-23 11:52+0200\n"
+"PO-Revision-Date: 2021-06-23 11:52+0200\n"
+"Last-Translator: Mateusz Hajder\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: reservation-exporter.php\n"
+"X-Poedit-SearchPath-1: views/generate.php\n"
+
+#: reservation-exporter.php:98 reservation-exporter.php:114
+msgid "Reservation Exporter"
+msgstr "Eksporter Rezerwacji"
+
+#: reservation-exporter.php:173
+msgid "Date"
+msgstr "Data"
+
+#: reservation-exporter.php:174
+msgid "Hour"
+msgstr "Godzina"
+
+#: reservation-exporter.php:175
+msgid "Name"
+msgstr "Imię i Nazwisko"
+
+#: reservation-exporter.php:176
+msgid "Email address"
+msgstr "Adres Email"
+
+#: reservation-exporter.php:177
+msgid "Phone number"
+msgstr "Numer Telefonu"
+
+#: reservation-exporter.php:178
+msgid "Additional comment"
+msgstr "Dodatkowy komentarz"
+
+#: views/generate.php:18
+msgid "Choose a service"
+msgstr "Wybierz usługę"
+
+#: views/generate.php:31
+msgid "Select a time period"
+msgstr "Wybierz przedział czasowy"
+
+#: views/generate.php:40
+msgid "Export"
+msgstr "Eksportuj"
+
+#: views/generate.php:53
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+#: views/generate.php:54
+msgid "1"
+msgstr "1"
+
+#: views/generate.php:55
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: views/generate.php:56
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: views/generate.php:57
+msgid "Today"
+msgstr "Dzisiaj"
+
+#: views/generate.php:58
+msgid "Now"
+msgstr "Teraz"
+
+#: views/generate.php:59
+msgid "Save"
+msgstr "Zapisz"
